@@ -159,3 +159,6 @@ zstyle ':prezto:module:terminal:tab-title' format '%c'
 
 # Don't share history between all sessions.
 setopt NO_SHARE_HISTORY
+
+# Enable the use of comment chars
+setopt INTERACTIVE_COMMENTS
