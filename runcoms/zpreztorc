@@ -27,14 +27,14 @@ zstyle ':prezto:load' pmodule \
   'environment' \
   'terminal' \
   'editor' \
-  'syntax-highlighting' \
   'history' \
-  'history-substring-search' \
   'directory' \
   'spectrum' \
   'utility' \
   'completion' \
   'git' \
+  'syntax-highlighting' \
+  'history-substring-search' \
   'prompt'
 
 #
